@@ -1,0 +1,44 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AWSCore (2.6.1)
+  - AWSS3 (2.6.1):
+    - AWSCore (= 2.6.1)
+  - IQKeyboardManager (4.0.13)
+  - LLSimpleCamera (5.0.0)
+  - MBProgressHUD (1.0.0)
+  - MobilePrintSDK (3.0.10)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AWSS3
+  - IQKeyboardManager
+  - LLSimpleCamera
+  - MBProgressHUD
+  - MobilePrintSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AWSCore: e7d37fa0715def975acf1b0d75556576780088b8
+  AWSS3: 2e18ede28199a5530955dc1a65434da43dcc4d2c
+  IQKeyboardManager: 8eab4d8111418414619d1df8e4779ce5d0f8d7e2
+  LLSimpleCamera: 7175ccb81be71c83d79933089322eb662b1f0327
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MobilePrintSDK: 21bba3229fdd863ac0248a7af5956b09d27c615a
+
+PODFILE CHECKSUM: 73aedda36889a108750b06653005bd6561a3c0cf
+
+COCOAPODS: 1.2.1
